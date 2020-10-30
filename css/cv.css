@@ -130,6 +130,10 @@ li {
 	padding-bottom: 4px;
 }
 
+.lang { width: 45%; background-color:#37474f;
+	border-radius: 5px;
+}
+
 .algos { width: 60%; background-color:#37474f;
 	border-radius: 5px;
 }
@@ -162,7 +166,7 @@ li {
 }
 .avatar_img {
 	border-radius: 50%;
-	width: 60%;
+	width: 40%;
 	position: relative;
 }
 
